@@ -201,6 +201,8 @@ nav {
       -ms-flex-align: center;
           align-items: center;
   margin-top: 35px;
+}
+.reasons_item_header {
   color: #1EACC7;
   font-weight: 400;
   font-size: 17px;
@@ -460,7 +462,7 @@ nav {
 footer {
   padding: 14px 23px 39px 23px;
 }
-footer:hover {
+footer a:hover {
   text-decoration: none;
 }
 
